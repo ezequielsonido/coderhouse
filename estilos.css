@@ -99,8 +99,8 @@ footer {
 }
 
 .zoom:hover {
-  -webkit-transform: scale(1.02);
-          transform: scale(1.02);
+  -webkit-transform: scale(1);
+          transform: scale(1);
 }
 
 .whatsapp {
@@ -145,4 +145,10 @@ footer {
   -webkit-transform: scale(1.2);
           transform: scale(1.2);
 }
+
+h3 {
+  margin-top:15px ;
+}
+
+
 /*# sourceMappingURL=estilos.css.map */
